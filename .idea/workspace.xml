@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="508363ea-9305-4f80-b8b5-aca9478f6713" name="Default Changelist" comment="" />
+    <list default="true" id="508363ea-9305-4f80-b8b5-aca9478f6713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/users/profile.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/admin-top-navbar-user-information.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/admin-master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/admin-master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/home-master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/home-master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +47,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +158,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hVNLQAAjqb2UiNHDYFC15PBYkD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -134,6 +168,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../antrian/antrian" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -155,25 +190,51 @@
       <workItem from="1600350058236" duration="6511000" />
       <workItem from="1600524207908" duration="6037000" />
       <workItem from="1600574945993" duration="4665000" />
-      <workItem from="1600604909889" duration="1559000" />
+      <workItem from="1600604909889" duration="3733000" />
+      <workItem from="1600611900820" duration="533000" />
+      <workItem from="1600612456551" duration="1250000" />
+      <workItem from="1600644539401" duration="2761000" />
+      <workItem from="1600670057855" duration="1784000" />
+      <workItem from="1600754658382" duration="3436000" />
+      <workItem from="1600859212098" duration="988000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="324" y="199" width="774" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600646448914">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="324" y="199" width="774" height="403" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1600646448914" />
     <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600351373523">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1600351373523" />
+    <state x="205" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600645064276">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" width="1022" height="737" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1600645064276" />
     <state x="380" y="174" key="run.anything.popup" timestamp="1600575897223">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="380" y="174" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1600575897223" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600578759059">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600756658889">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1600578759059" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1600756658889" />
   </component>
 </project>
